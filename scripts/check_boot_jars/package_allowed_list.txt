@@ -262,3 +262,6 @@ com.qualcomm.wfd
 com.qualcomm.wfd.service
 org.codeaurora.internal
 qcom.fmradio
+
+# Ice adds
+vendor.lineage.touch.*
